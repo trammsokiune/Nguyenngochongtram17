@@ -5,13 +5,13 @@ h1 {
 .tuade { 
   color: tomato;
   front family: Arial;
-  top-margin:20pt;
-  front-size:20pt;
+  top-margin: 20pt;
+  front-size: 20pt;
   font weight: bold;
 }
 .noidung {
   color: black; 
   top-margin: 6pt;
-  font-size:15pt;
+  font-size: 15pt;
   font-style:normal;
 }
