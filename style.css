@@ -4,9 +4,9 @@ h1 {
 } 
 .tuade { 
   color: lavender;
-  front family: Arial;
+  font-family: Arial;
   top-margin: 20pt;
-  front-size: 20pt;
+  font-size: 20pt;
   font weight: bold;
 }
 .noidung {
