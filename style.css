@@ -11,14 +11,19 @@
   flex: 5%
 background-color: darkgray;
 }
-
 }
-.cpntent{
-  flex: 10%
+.content{
+  flex: 70%
   background-color: white;
 }
+.content iframe{
+  flex 1;
+  border: none;
 }
 .footer{ 
+  flex: 10%;
+  background-color: lightgray
+}
 h1 {
   color: red;
   top-margin: 25pt 
