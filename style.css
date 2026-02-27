@@ -22,7 +22,7 @@ background-color: darkgray;
 }
 .footer{ 
   flex: 10%;
-  background-color: lightgray
+  background-color: lightgray;
 }
 h1 {
   color: red;
