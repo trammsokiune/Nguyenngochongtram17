@@ -10,13 +10,13 @@
 }
 .menu{
   flex: 5%;
-background-color: darkgray;
+  background-color: darkgray;
   display: flex;
   align-items: center;
 }
 .menu a{
   padding: 15px 20px;
-  color:blue;
+  color: blue;
 }
 .menu hover{
   background-color: lightgray;
@@ -42,7 +42,7 @@ h1 {
 } 
 .tuade { 
   color: lavender;
-  font-family: Arial;
+  font-family: "Arial" ;
   top-margin: 20pt;
   font-size: 20pt;
   font weight: bold;
@@ -50,6 +50,7 @@ h1 {
 .noidung {
   color: black; 
   top-margin: 6pt;
+  font-family: "Arial" ;
   font-size: 15pt;
-  font-style:normal;
+  font-style: normal;
 }
