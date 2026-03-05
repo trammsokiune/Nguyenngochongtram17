@@ -6,9 +6,7 @@
  <body>
     <h1> Giới thiệu nghề nghiệp </h1>
     <h2> Nghề Biên Tập Viên </h2>
-
     <ol type="1" class="f1">
-
       <li> Giới thiệu về biên tập viên
         <ul class="f2">
           Nghề biên tập viên là công việc liên quan đến việc chỉnh sửa, kiểm tra và hoàn thiện nội dung 
