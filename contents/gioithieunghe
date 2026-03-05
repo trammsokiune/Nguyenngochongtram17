@@ -1,1 +1,48 @@
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+<title>Giới thiệu nghề nghiệp</title>
+</head>
 
+<body>
+
+<h1>Giới thiệu nghề nghiệp</h1>
+<h2>Nghề Biên Tập Viên</h2>
+
+<ol type="1" class="f1">
+
+<li>Giới thiệu về biên tập viên
+    <ul class="f2">
+        <li>
+        Nghề biên tập viên là công việc liên quan đến việc chỉnh sửa, kiểm tra và hoàn thiện 
+        nội dung văn bản trước khi xuất bản. Biên tập viên đảm bảo nội dung rõ ràng, chính xác, 
+        logic và phù hợp với người đọc. Họ có thể làm việc trong lĩnh vực báo chí, xuất bản sách, 
+        truyền hình hoặc các nền tảng truyền thông số.
+        </li>
+    </ul>
+</li>
+
+<li>Lí do chọn nghề biên tập viên
+    <ul class="f2">
+        <li>Yêu thích đọc sách, viết lách và làm việc với ngôn ngữ.</li>
+        <li>Có cơ hội tiếp cận nhiều kiến thức trong nhiều lĩnh vực khác nhau.</li>
+        <li>Phát triển khả năng tư duy, phân tích và chỉnh sửa nội dung.</li>
+        <li>Được tham gia vào quá trình sáng tạo các sản phẩm truyền thông.</li>
+    </ul>
+</li>
+
+<li>Cơ hội nghề nghiệp
+    <ul class="f2">
+        <li>Biên tập viên báo chí tại các tòa soạn báo hoặc trang tin điện tử.</li>
+        <li>Biên tập viên xuất bản tại các nhà xuất bản sách.</li>
+        <li>Biên tập viên truyền hình chuẩn bị nội dung cho các chương trình.</li>
+        <li>Biên tập viên nội dung (Content Editor) trong công ty truyền thông.</li>
+        <li>Biên tập viên tự do (Freelancer) làm việc cho nhiều dự án khác nhau.</li>
+    </ul>
+</li>
+
+</ol>
+
+</body>
+</html>
