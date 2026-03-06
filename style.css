@@ -5,21 +5,22 @@
 }
 .header{
   flex: 15%;
-  background-color: lightgray;
-  background: url("images/banner.png") center ;
+  background-color: lightpurple;
+  background: url("images/banner.png") center / 100% ;
+  aspect-ratio: 6/1;
 }
 .menu{
   flex: 5%;
-  background-color: darkgray;
+  background-color: darkviolet;
   display: flex;
   align-items: center;
 }
 .menu a{
   padding: 15px 20px;
-  color: blue;
+  color: white;
 }
 .menu a:hover{
-  background-color: lightgray;
+  background-color: lightpurple;
   color: black;
 }
 .content{
@@ -34,7 +35,7 @@
 }
 .footer{ 
   flex: 10%;
-  background-color: lightgray;
+  background-color: lightpurple;
 }
 h1 {
   color: red;
