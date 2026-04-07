@@ -8,6 +8,13 @@
     </style> 
   </head>
   <body> 
+    <p id="kq"> </p>
+  <script>
+    let params = new URLSearchParams(window.location.search);
+    let name=params.get("txtTen");
+    let yk=params.get("txtComment");
+    document.getElementById("kq").innerHTML ="Cảm ơn bạn "+ name+" đã đăng kí" 
+  </script>
      <form action ="Bai1.html">
     <h2> Cảm ơn bạn đã góp ý kiến</h2>
     <p>Chúng tôi xin ghi nhận ý kiến của bạn và để cải tiến,nâng cao chất lượng phục vụ hơn nữa trong thời gian sắp tới </p>
